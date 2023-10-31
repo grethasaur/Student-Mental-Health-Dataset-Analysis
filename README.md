@@ -37,4 +37,4 @@ The potential impact of this project is significant. By identifying factors affe
 Explore the project's code and documentation to delve into the analysis, findings, and model development. Please feel free to reach out if you have any questions or insights to share. I welcome collaboration and discussion in the pursuit of improving student mental health.
 
 
-**Link to Kaggle Dataset**: [Mental Health Dataset on Kaggle]((https://www.kaggle.com/datasets/shariful07/student-mental-health)https://www.kaggle.com/datasets/shariful07/student-mental-health)
+**Link to dataset**: [Student Mental Health Dataset on Kaggle](https://www.kaggle.com/datasets/shariful07/student-mental-health)
