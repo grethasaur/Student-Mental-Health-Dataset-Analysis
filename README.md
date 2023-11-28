@@ -1,3 +1,6 @@
+*Please note: I've adhered strictly to the assignment guidelines, restricting the dataset analysis to the specified instructions. However, this dataset offers numerous other possibilities for exploration and deeper analysis as well as tuning the model.*
+
+
 # Student Mental Health Analysis and Prediction 
 
 Welcome to the Student Mental Health Analysis and Prediction. This repository is part of my course assignment and showcases the results of a comprehensive exploration into the mental health of students using data from Kaggle. The project serves as both an academic assignment and an opportunity to apply and demonstrate valuable skills in data analysis, data visualization and machine learning.
@@ -6,7 +9,6 @@ Welcome to the Student Mental Health Analysis and Prediction. This repository is
 
 As educational institutions are increasingly recognizing the importance of student mental health, this project seeks to contribute to the ongoing conversation. By leveraging data-driven insights, I aim to understand the factors that influence student mental health and create predictive models to identify potential mental health concerns early on. This work has the potential to positively impact the lives of countless students by enabling timely support and interventions.
 
-*Please note: I've adhered strictly to the assignment guidelines, restricting the dataset analysis to the specified instructions. However, this dataset offers numerous other possibilities for exploration and deeper analysis as well as tuning the model.*
 
 ## Skills and Technologies
 
